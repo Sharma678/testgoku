@@ -1,0 +1,9 @@
+a=153
+sum=0
+digit=0
+duplicate=a
+while(a>0):
+  digit=a%10
+  a=a/10
+  sum=digit*digit*digit
+print(sum)
