@@ -6,4 +6,4 @@ while(a>0):
   digit=a%10
   a=a/10
   sum=digit*digit*digit
-print(sum)
+print(suum)
